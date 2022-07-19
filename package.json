@@ -1,4 +1,6 @@
 {
+  "name": "readind-books-library",
+  "homepage": "https://book-library-8af83.web.app",
   "author": "Sanusi Abdulkadir",
   "dependencies": {
     "escape-string-regexp": "^1.0.5",
