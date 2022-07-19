@@ -1,6 +1,11 @@
 # Book Library | Your Reading Assistant
 A React App to help you manage your Book Library; By dividing your books into `Currently Reading`, `Want To Read`, `Read` or `None` if you didn't decide yet!
 
+## Live Preview "https://book-library-8af83.web.app"
+
+## Screenshot/Preview
+  ![books-library](https://github.com/sanusisusi/book-library/blob/main/books-library.png)
+
 ## Setup Instructions
 - `git clone https://github.com/sanusisusi/Book-Library.git`
 - `cd Book-Library`
